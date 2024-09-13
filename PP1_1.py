@@ -1,5 +1,4 @@
 def q1():
-  #Write Assignment code here
   print("Hello world")
 def q2():
   #Write Assignment code here
@@ -14,3 +13,8 @@ def q3():
 def q4():
   #Write Assignment code here
   print("3 x 3 = " , 3*3)
+
+q1()
+q2()
+q3()
+q4()
